@@ -1,7 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Fuad 👨‍💻
 
-I am a Node.JS Developer. I am passionate about technologies and love to learn new things.
+I have some experience with Javascript, Python and Go. I am passionate about technologies and love to learn new things.
 
 #### 🔭 I’m currently looking for new opportunities .
 
