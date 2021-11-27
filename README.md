@@ -3,7 +3,7 @@
 
 I have some experience with Javascript, Python and Go. I am passionate about technologies and love to learn new things.
 
-#### 🔭 I’m always looking for new opportunities.
+#### 🔭 I’m always open to new opportunities.
 
 
 ## ⚡ Tech Stack
